@@ -1,0 +1,6 @@
+{
+  "name": "test ejara backend app",
+  "description": "A basic nodejs API using nestJS",
+  "repository": "https://github.com/keljon/ejara/test-ejara-backend",
+  "keywords": ["node", "nest"]
+}
