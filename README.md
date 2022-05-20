@@ -74,7 +74,7 @@ Nest is [MIT licensed](LICENSE).
 
 ## Deploy with Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keljon/test-ejara-backend/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keljon/test-ejara-backend/tree/main)
 
 
 
